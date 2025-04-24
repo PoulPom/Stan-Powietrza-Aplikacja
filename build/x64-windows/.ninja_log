@@ -1,0 +1,14 @@
+# ninja log v6
+112	7458	7671895319379233	CMakeFiles/AirQualityApp.dir/main.cpp.obj	8df1f90babe0631d
+7462	9280	7671895392878328	AirQualityApp.exe	643d80fa159ec94b
+20	38	7663569165471498	clean	8c45b54705a541e8
+72	7106	7671896667818918	CMakeFiles/AirQualityApp.dir/main.cpp.obj	8df1f90babe0631d
+7107	8130	7671896738195611	AirQualityApp.exe	643d80fa159ec94b
+70	6882	7671897686279508	CMakeFiles/AirQualityApp.dir/main.cpp.obj	8df1f90babe0631d
+6883	7877	7671897754414852	AirQualityApp.exe	643d80fa159ec94b
+75	6899	7671898204610429	CMakeFiles/AirQualityApp.dir/main.cpp.obj	8df1f90babe0631d
+6900	8124	7671898272823904	AirQualityApp.exe	643d80fa159ec94b
+72	6868	7671899330391316	CMakeFiles/AirQualityApp.dir/main.cpp.obj	8df1f90babe0631d
+6870	7853	7671899398359068	AirQualityApp.exe	643d80fa159ec94b
+69	6894	7671899699764415	CMakeFiles/AirQualityApp.dir/main.cpp.obj	8df1f90babe0631d
+6895	7867	7671899768025424	AirQualityApp.exe	643d80fa159ec94b

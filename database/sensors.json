@@ -1,0 +1,32 @@
+[
+    {
+        "sensors": [
+            {
+                "paramName": "benzo(a)piren w PM10",
+                "sensorId": 1279
+            },
+            {
+                "paramName": "tlenek azotu",
+                "sensorId": 1282
+            },
+            {
+                "paramName": "dwutlenek azotu",
+                "sensorId": 1283
+            },
+            {
+                "paramName": "tlenki azotu",
+                "sensorId": 1284
+            },
+            {
+                "paramName": "ozon",
+                "sensorId": 1285
+            },
+            {
+                "paramName": "pył zawieszony PM10",
+                "sensorId": 1288
+            }
+        ],
+        "stationId": 190,
+        "stationName": "Koniczynka, Pojezierze Chełmińskie"
+    }
+]

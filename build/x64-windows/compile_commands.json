@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/AirQ/build/x64-windows",
+  "command": "C:\\PROGRA~1\\MICROS~3\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1438~1.331\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DBOOST_CONTAINER_DYN_LINK -DBOOST_CONTAINER_NO_LIB -DBOOST_CONTEXT_DYN_LINK=\"\" -DBOOST_CONTEXT_EXPORT=EXPORT -DBOOST_CONTEXT_NO_LIB=\"\" -DBOOST_DATE_TIME_DYN_LINK -DBOOST_DATE_TIME_NO_LIB -DUNICODE -D_UNICODE -external:IC:\\vcpkg\\installed\\x64-windows\\lib\\mswu -external:IC:\\vcpkg\\installed\\x64-windows\\include -external:W0 /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\AirQualityApp.dir\\main.cpp.obj /FdCMakeFiles\\AirQualityApp.dir\\ /FS -c C:\\AirQ\\main.cpp",
+  "file": "C:\\AirQ\\main.cpp",
+  "output": "CMakeFiles\\AirQualityApp.dir\\main.cpp.obj"
+}
+]

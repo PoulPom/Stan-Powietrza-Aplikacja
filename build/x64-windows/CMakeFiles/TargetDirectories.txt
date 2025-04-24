@@ -1,0 +1,3 @@
+C:/AirQ/build/x64-windows/CMakeFiles/AirQualityApp.dir
+C:/AirQ/build/x64-windows/CMakeFiles/edit_cache.dir
+C:/AirQ/build/x64-windows/CMakeFiles/rebuild_cache.dir
